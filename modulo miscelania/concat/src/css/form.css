@@ -1,0 +1,14 @@
+label {
+  font-size: 1rem;
+  color: var(--dark-blue);
+  font-weight: bold;
+  display: block;
+}
+
+input:not(input[type="radio"]),
+input:not(input[type="checkbox"]) {
+  border: 2px solid var(--dark-blue);
+  border-radius: 3px;
+  color: var(--dark-blue);
+  outline: none;
+}
