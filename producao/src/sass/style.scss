@@ -1,0 +1,16 @@
+@import "variables";
+main {
+  background-color: $primaryColor;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  color: $textColor;
+}
+a:link {
+  color: $anchor;
+}
