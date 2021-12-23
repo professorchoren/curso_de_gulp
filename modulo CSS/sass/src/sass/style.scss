@@ -1,0 +1,23 @@
+$primaryColor: #1d3557;
+$secondaryColor: #457b9d;
+$success: #264653;
+$warning: #ffb703;
+$danger: #ae2012;
+$textColor: #001219;
+$anchor: #fcbf49;
+
+main {
+  background-color: $primaryColor;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  color: $textColor;
+}
+a:link {
+  color: $anchor;
+}
